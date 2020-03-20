@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\bin\Release\DrWeabo - Coronavirus Tracker.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\bin\Release\DrWeabo - Coronavirus Tracker.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\bin\Release\DrWeabo - Coronavirus Tracker.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\bin\Release\DrWeabo - Coronavirus Tracker.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo___Coronavirus_Tracker.FormMain.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo___Coronavirus_Tracker.FormSearchCountry.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo___Coronavirus_Tracker.FormSearchTopCountry.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo___Coronavirus_Tracker.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo - Coronavirus Tracker.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo - Coronavirus Tracker.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo - Coronavirus Tracker.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo - Coronavirus Tracker.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\DrWeabo - Coronavirus Tracker\obj\Release\DrWeabo - Coronavirus Tracker.pdb
