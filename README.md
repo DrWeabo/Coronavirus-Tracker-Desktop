@@ -1,2 +1,2 @@
 # Coronavirus-Tracker-Desktop
-Track the coronavirus case with the desktop version.
+Track the coronavirus from desktop version.
