@@ -6,28 +6,28 @@ Track the coronavirus from desktop version with Visual Basic .NET
 
 # Community
 
-- My Forum: https://forum.drweabo.com/showthread.php?tid=16
+- My Forum : https://forum.drweabo.com/showthread.php?tid=16
 
 # Videos
 
-- My YouTube: https://youtu.be/W96AV8KIfN0
+- My YouTube : https://youtu.be/W96AV8KIfN0
 
 # Sources
 
-- https://github.com/sagarkarira/coronavirus-tracker-cli
+- Sources : https://github.com/sagarkarira/coronavirus-tracker-cli
 
 # Follow Us
 
-- Instagram: https://www.instagram.com/DrWeabo
-- Twitter: https://www.twitter.com/DrWeabo
-- Facebook: https://www.facebook.com/DrWeabo
+- Instagram : https://www.instagram.com/DrWeabo
+- Twitter : https://www.twitter.com/DrWeabo
+- Facebook : https://www.facebook.com/DrWeabo
 
 # Join Us
 
-- Discord: https://discord.drweabo.com
+- Discord : https://discord.drweabo.com
 
 # Info more
 
-- Track Corona Status on Indonesia: https://corona.drweabo.com/
+- Track Corona Status on Indonesia : https://corona.drweabo.com/
 
 © 2020 Copyright: DrWeabo Inc.
