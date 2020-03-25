@@ -26,4 +26,8 @@ Track the coronavirus from desktop version with Visual Basic .NET
 
 - Discord: https://discord.drweabo.com
 
+# Info more
+
+- Track Corona Status on Indonesia: https://corona.drweabo.com/
+
 © 2020 Copyright: DrWeabo Inc.
