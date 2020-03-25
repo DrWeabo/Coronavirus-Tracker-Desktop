@@ -4,17 +4,22 @@ Track the coronavirus from desktop version with Visual Basic .NET
 # Screenshot
 ![image](https://media.discordapp.net/attachments/524271574660939792/690561925016453210/unknown.png?width=1126&height=634)
 
-# Follow Us
-
-- Subscribe: https://www.youtube.com/DrWeabo
-- Join in my little forum: https://forum.drweabo.com/
-
-# Community Post
+# Community
 
 - My Forum: https://forum.drweabo.com/showthread.php?tid=16
 
-# Video Post
+# Videos
 
 - My YouTube: https://youtu.be/W96AV8KIfN0
+
+# Follow Us
+
+- Instagram: https://www.instagram.com/DrWeabo
+- Twitter: https://www.twitter.com/DrWeabo
+- Facebook: https://www.facebook.com/DrWeabo
+
+# Join Us
+
+- Discord: https://discord.drweabo.com
 
 © 2020 Copyright: DrWeabo Inc.
