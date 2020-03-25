@@ -11,10 +11,10 @@ Track the coronavirus from desktop version with Visual Basic .NET
 
 # Community Post
 
-- Forum Post: https://forum.drweabo.com/showthread.php?tid=16
+- My Forum: https://forum.drweabo.com/showthread.php?tid=16
 
 # Video Post
 
-- YouTube Post: https://youtu.be/W96AV8KIfN0
+- My YouTube: https://youtu.be/W96AV8KIfN0
 
 © 2020 Copyright: DrWeabo Inc.
