@@ -22,7 +22,7 @@ Track the coronavirus from desktop version with Visual Basic .NET
 
 - Discord: https://discord.drweabo.com
 
-# API's
+# Sources
 
 - https://github.com/sagarkarira/coronavirus-tracker-cli
 
